@@ -23,4 +23,5 @@ This code should perform equally well in non-map-projected images as well. You w
 5. Determine_median_position_boundary_SN.m
 This code determines median positions of segmented somite boundaries and notochord
 
-
+6. Manually_segment_outline_somites_explants_v1.m
+This code allows manual outlining of tissues
